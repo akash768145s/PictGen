@@ -32,7 +32,7 @@ export default function Login() {
             alt="PictoGen Logo"
             className="mx-auto w-72 h-40 object-contain"
           />
-          <h1 className="text-3xl text-white font-bold mb-6">
+          <h1 className="text-3xl text-white font-bold mb-5">
             Welcome to PictoGen
           </h1>
           
